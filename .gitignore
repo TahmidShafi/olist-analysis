@@ -1,0 +1,20 @@
+# Raw datasets
+data/
+
+# ZIP/archive files
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Power BI temporary/lock files
+~$*.pbix
